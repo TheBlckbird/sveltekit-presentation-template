@@ -1,0 +1,14 @@
+/*
+	CSS Variables For Theming
+	https://github.com/hakimel/reveal.js/blob/master/css/theme/template/exposer.scss
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slide-number {
+	font-size: 20px !important;
+	/* border-radius: 10px !important; */
+	/* padding: 5px !important; */
+}
